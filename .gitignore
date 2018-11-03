@@ -1,0 +1,52 @@
+**/build/
+!building-and-testing-c++-libraries/3rdparty/googletest-master/googletest/build/
+**/.gradle/
+
+# IDEA
+# ----
+.idea
+.shelf
+/*.iml
+/*.ipr
+/*.iws
+/out
+
+# Eclipse
+# -------
+*.classpath
+*.project
+*.settings
+/bin
+atlassian-ide-plugin.xml
+
+# NetBeans
+# --------
+.nb-*
+
+# Vim
+# ---
+*.sw[op]
+
+# Emacs
+# -----
+*~
+
+# Textmate
+# --------
+.textmate
+
+# Sublime Text
+# ------------
+*.sublime-*
+
+# jEnv
+# ----
+.java-version
+
+# OS X
+# ----
+.DS_Store
+
+# HPROF
+# -----
+*
